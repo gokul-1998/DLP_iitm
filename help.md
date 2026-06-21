@@ -1,0 +1,2 @@
+- cmd to download youtube videos
+    - `yt-dlp -f "bestvideo+bestaudio" --merge-output-format mp4 "https://youtu.be/Z0RRq4ripbA?si=s08ry61eTnLIA2Z6"`
